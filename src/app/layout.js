@@ -19,6 +19,7 @@ export default function RootLayout({ children }) {
           </h1>
         </header>
         {children}
+        {/* Footer */}
         <footer>
           <h1 className="text-2xl">
             This is the footer
